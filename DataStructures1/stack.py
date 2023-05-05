@@ -1,7 +1,8 @@
 # STACK DATA STRUCTURE
 '''
--Like a stack of plates you can only remove the Last item that was put into the stack (the top item)
--Applications
+- https://www.programiz.com/dsa/stack
+- Like a stack of plates you can only remove the Last item that was put into the stack (the top item)
+- Applications
     1. Reverse word
     2. Compilers use stack to calculate expressions
     3. Browsers user stack to recall previous pages by saving former URLS in a stack

@@ -1,5 +1,6 @@
 # QUEUE DATA STRUCTURE
 '''
+- https://www.programiz.com/dsa/queue
 - Acts like waiting in line FIFO or first come first serve
 - Applications:
     1. CPU/DISK scheduling
